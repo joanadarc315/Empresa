@@ -68,7 +68,7 @@ with col_left:
             line-height: 2.0;
             width: 100%;
         ">
-            <b>Sobre Joana:</b><br><br>
+            <b>Sobre Joana Ramos:</b><br><br>
 
             Joana Darc é estudante apaixonada por tecnologia,
             criatividade e inovação. Atualmente dedica seu tempo
