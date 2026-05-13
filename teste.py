@@ -19,7 +19,7 @@ col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
     st.markdown(f"""
         <div style="text-align: center; margin-bottom: 50px;">
-            <a href="https://www.ifpb.edu.br/" target="_blank">
+            <a href="https://www.gucci.com/pl/en_gb/" target="_blank">
                 <img src="data:image/webp;base64,{img_base64}"
                      width="320"
                      style="border-radius:12px;">
