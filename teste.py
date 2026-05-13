@@ -35,7 +35,7 @@ with col_left:
     # NOME
     st.markdown("""
     <div style='margin-bottom:30px; font-size:30px;'>
-        <b>Joana Silva</b>
+        <b>Joana Darc</b>
     </div>
     """, unsafe_allow_html=True)
 
@@ -68,7 +68,7 @@ with col_left:
             line-height: 2.0;
             width: 100%;
         ">
-            <b>Sobre Joana Ramos:</b><br><br>
+            <b>Sobre Joana:</b><br><br>
 
             Joana Darc é estudante apaixonada por tecnologia,
             criatividade e inovação. Atualmente dedica seu tempo
