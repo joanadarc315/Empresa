@@ -70,7 +70,7 @@ with col_left:
         ">
             <b>Sobre Joana:</b><br><br>
 
-            Joana Silva é estudante apaixonada por tecnologia,
+            Joana Darc é estudante apaixonada por tecnologia,
             criatividade e inovação. Atualmente dedica seu tempo
             ao aprendizado de programação, desenvolvimento web
             e design digital.
